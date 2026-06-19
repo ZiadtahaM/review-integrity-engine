@@ -17,3 +17,4 @@ The model achieved an **F1-Score of 0.88** on unseen test data, demonstrating hi
 - `train_and_save.py`: The training pipeline. Employs modular data serialization to ensure model portability and environment reproducibility.
 - `app.py`: The production-ready inference interface.
 - `*.pkl`: Serialized model state and feature vocabulary (feature-engineered artifacts).
+# review-integrity-engine
